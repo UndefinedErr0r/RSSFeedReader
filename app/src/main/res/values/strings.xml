@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RSSFeedReader</string>
+    <string name="action_settings">View Database</string>
+    <string name="action_delete">Remove Feed</string>
+    <string name="action_clear">Clear postgresql DB</string>
+    <string name="action_upload">Send2DB</string>
+    <string name="title_activity_feed_reader">FeedReader</string>
+    <string name="title_activity_view_database">Database View</string>
+</resources>
